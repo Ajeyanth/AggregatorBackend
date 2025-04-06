@@ -1,0 +1,1482 @@
+{
+  "finance": [
+    {
+      "prompt": "Explain capital gains tax for short-term stock trading.",
+      "anthropic_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.0,
+        "completeness": 3.5,
+        "conciseness": 3.8,
+        "style": 3.7
+      },
+      "grok_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.2,
+        "completeness": 4.7,
+        "conciseness": 3.8,
+        "style": 4.0
+      }
+    },
+    {
+      "prompt": "What is compound interest and how does it differ from simple interest?",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "prompt": "How does inflation affect bond prices?",
+      "anthropic_rating": {
+        "accuracy": 4.0,
+        "clarity": 3.5,
+        "completeness": 3.8,
+        "conciseness": 3.7,
+        "style": 3.5
+      },
+      "grok_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.2,
+        "completeness": 4.7,
+        "conciseness": 3.8,
+        "style": 4.0
+      }
+    },
+    {
+      "prompt": "What is the difference between a Roth IRA and a Traditional IRA?",
+      "anthropic_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.0,
+        "completeness": 4.0,
+        "conciseness": 3.5,
+        "style": 3.5
+      },
+      "grok_rating": {
+        "accuracy": 4.8,
+        "clarity": 4.5,
+        "completeness": 4.7,
+        "conciseness": 4.2,
+        "style": 4.6
+      }
+    },
+    {
+      "prompt": "Explain the concept of diversification in investment portfolios.",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "prompt": "How do exchange-traded funds (ETFs) differ from mutual funds?",
+      "anthropic_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.0,
+        "completeness": 4.2,
+        "conciseness": 3.8,
+        "style": 3.9
+      },
+      "grok_rating": {
+        "accuracy": 5.0,
+        "clarity": 4.5,
+        "completeness": 5.0,
+        "conciseness": 4.0,
+        "style": 4.0
+      }
+    },
+    {
+      "prompt": "What are the main types of risk in corporate finance?",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "prompt": "How does a company conduct an initial public offering (IPO)?",
+      "anthropic_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.0,
+        "completeness": 4.2,
+        "conciseness": 3.8,
+        "style": 4.0
+      },
+      "grok_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.5,
+        "completeness": 4.5,
+        "conciseness": 4.0,
+        "style": 4.0
+      }
+    },
+    {
+      "prompt": "What is quantitative easing and why do central banks use it?",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "prompt": "Explain dollar-cost averaging as an investment strategy.",
+      "anthropic_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.0,
+        "completeness": 4.2,
+        "conciseness": 3.8,
+        "style": 3.5
+      },
+      "grok_rating": {
+        "accuracy": 4.8,
+        "clarity": 4.7,
+        "completeness": 4.6,
+        "conciseness": 4.2,
+        "style": 4.5
+      }
+    },
+    {
+      "prompt": "How do credit ratings affect a company's cost of capital?",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "prompt": "Describe how venture capital works for startups.",
+      "anthropic_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.0,
+        "completeness": 3.8,
+        "conciseness": 3.7,
+        "style": 3.9
+      },
+      "grok_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.2,
+        "completeness": 4.7,
+        "conciseness": 3.8,
+        "style": 4.0
+      }
+    },
+    {
+      "prompt": "What is a stock split and how does it affect shareholders?",
+      "anthropic_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.0,
+        "completeness": 4.0,
+        "conciseness": 3.5,
+        "style": 3.5
+      },
+      "grok_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.2,
+        "completeness": 4.5,
+        "conciseness": 3.8,
+        "style": 4.0
+      }
+    },
+    {
+      "prompt": "How does the foreign exchange market influence international trade?",
+      "anthropic_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.0,
+        "completeness": 4.2,
+        "conciseness": 3.8,
+        "style": 4.0
+      },
+      "grok_rating": {
+        "accuracy": 4.8,
+        "clarity": 4.5,
+        "completeness": 4.7,
+        "conciseness": 3.8,
+        "style": 4.2
+      }
+    },
+    {
+      "prompt": "Explain the role of monetary policy in controlling inflation.",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "prompt": "What are derivatives and how do they work in hedging risk?",
+      "anthropic_rating": {
+        "accuracy": 4.0,
+        "clarity": 3.5,
+        "completeness": 3.8,
+        "conciseness": 3.2,
+        "style": 3.5
+      },
+      "grok_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.2,
+        "completeness": 4.7,
+        "conciseness": 3.8,
+        "style": 4.0
+      }
+    },
+    {
+      "prompt": "How do you calculate the Weighted Average Cost of Capital (WACC)?",
+      "anthropic_rating": {
+        "accuracy": 4.0,
+        "clarity": 3.5,
+        "completeness": 4.2,
+        "conciseness": 3.8,
+        "style": 3.7
+      },
+      "grok_rating": {
+        "accuracy": 4.8,
+        "clarity": 4.7,
+        "completeness": 4.9,
+        "conciseness": 4.5,
+        "style": 4.6
+      }
+    },
+    {
+      "prompt": "Describe the Efficient Market Hypothesis (EMH).",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "prompt": "Why do bonds have ratings and how do they impact interest rates?",
+      "anthropic_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.0,
+        "completeness": 4.2,
+        "conciseness": 3.8,
+        "style": 4.0
+      },
+      "grok_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.3,
+        "completeness": 4.7,
+        "conciseness": 4.0,
+        "style": 4.2
+      }
+    },
+    {
+      "prompt": "What factors should an investor consider before buying cryptocurrency?",
+      "anthropic_rating": {
+        "accuracy": 4.0,
+        "clarity": 3.5,
+        "completeness": 3.8,
+        "conciseness": 3.2,
+        "style": 3.0
+      },
+      "grok_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.2,
+        "completeness": 4.7,
+        "conciseness": 3.8,
+        "style": 4.0
+      }
+    }
+  ],
+  "coding": [
+    {
+      "prompt": "Write a Python function to check if a string is a palindrome.",
+      "anthropic_rating": {
+        "accuracy": 5.0,
+        "clarity": 4.5,
+        "completeness": 4.0,
+        "conciseness": 4.0,
+        "style": 4.0
+      },
+      "grok_rating": {
+        "accuracy": 5.0,
+        "clarity": 4.5,
+        "completeness": 5.0,
+        "conciseness": 4.8,
+        "style": 4.7
+      }
+    },
+    {
+      "prompt": "What's the time complexity of merge sort compared to quicksort?",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "prompt": "Explain the difference between procedural and object-oriented programming.",
+      "anthropic_rating": {
+        "accuracy": 4.0,
+        "clarity": 3.5,
+        "completeness": 4.0,
+        "conciseness": 3.0,
+        "style": 3.5
+      },
+      "grok_rating": {
+        "accuracy": 4.8,
+        "clarity": 4.7,
+        "completeness": 4.9,
+        "conciseness": 3.8,
+        "style": 4.5
+      }
+    },
+    {
+      "prompt": "How does garbage collection work in Java?",
+      "anthropic_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.0,
+        "completeness": 4.2,
+        "conciseness": 3.8,
+        "style": 4.0
+      },
+      "grok_rating": {
+        "accuracy": 4.8,
+        "clarity": 4.7,
+        "completeness": 4.9,
+        "conciseness": 3.8,
+        "style": 4.5
+      }
+    },
+    {
+      "prompt": "What is the purpose of a virtual environment in Python?",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "prompt": "Explain how recursion works and give an example in C++.",
+      "anthropic_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.0,
+        "completeness": 4.0,
+        "conciseness": 3.5,
+        "style": 3.5
+      },
+      "grok_rating": {
+        "accuracy": 4.8,
+        "clarity": 4.7,
+        "completeness": 4.8,
+        "conciseness": 4.2,
+        "style": 4.5
+      }
+    },
+    {
+      "prompt": "How do you implement a binary search tree insertion in JavaScript?",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "prompt": "What is Big-O notation and why is it important?",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "prompt": "Explain the concept of pointers in C.",
+      "anthropic_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.0,
+        "completeness": 4.2,
+        "conciseness": 3.8,
+        "style": 3.5
+      },
+      "grok_rating": {
+        "accuracy": 4.8,
+        "clarity": 4.5,
+        "completeness": 4.7,
+        "conciseness": 3.8,
+        "style": 4.2
+      }
+    },
+    {
+      "prompt": "What are the main features of functional programming?",
+      "anthropic_rating": {
+        "accuracy": 4.0,
+        "clarity": 3.5,
+        "completeness": 3.8,
+        "conciseness": 3.7,
+        "style": 3.5
+      },
+      "grok_rating": {
+        "accuracy": 4.8,
+        "clarity": 4.5,
+        "completeness": 4.7,
+        "conciseness": 4.2,
+        "style": 4.6
+      }
+    },
+    {
+      "prompt": "How do you handle concurrency in Go (Golang)?",
+      "anthropic_rating": {
+        "accuracy": 4.0,
+        "clarity": 3.5,
+        "completeness": 4.0,
+        "conciseness": 3.0,
+        "style": 3.5
+      },
+      "grok_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.0,
+        "completeness": 4.5,
+        "conciseness": 3.5,
+        "style": 4.0
+      }
+    },
+    {
+      "prompt": "Explain the concept of polymorphism in OOP with examples.",
+      "anthropic_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.0,
+        "completeness": 4.0,
+        "conciseness": 3.5,
+        "style": 3.0
+      },
+      "grok_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.5,
+        "completeness": 4.5,
+        "conciseness": 3.5,
+        "style": 4.0
+      }
+    },
+    {
+      "prompt": "What is the difference between 'pass by value' and 'pass by reference'?",
+      "anthropic_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.0,
+        "completeness": 4.0,
+        "conciseness": 3.5,
+        "style": 3.5
+      },
+      "grok_rating": {
+        "accuracy": 4.8,
+        "clarity": 4.5,
+        "completeness": 4.7,
+        "conciseness": 3.8,
+        "style": 4.2
+      }
+    },
+    {
+      "prompt": "How do you implement memoization in a recursive algorithm?",
+      "anthropic_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.0,
+        "completeness": 4.0,
+        "conciseness": 3.5,
+        "style": 3.5
+      },
+      "grok_rating": {
+        "accuracy": 5.0,
+        "clarity": 4.8,
+        "completeness": 5.0,
+        "conciseness": 4.5,
+        "style": 4.7
+      }
+    },
+    {
+      "prompt": "Describe the model-view-controller (MVC) architecture pattern.",
+      "anthropic_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.0,
+        "completeness": 4.2,
+        "conciseness": 3.8,
+        "style": 3.5
+      },
+      "grok_rating": {
+        "accuracy": 4.8,
+        "clarity": 4.7,
+        "completeness": 4.9,
+        "conciseness": 4.2,
+        "style": 4.5
+      }
+    },
+    {
+      "prompt": "Explain how a RESTful API differs from a GraphQL API.",
+      "anthropic_rating": {
+        "accuracy": 4.0,
+        "clarity": 3.5,
+        "completeness": 4.0,
+        "conciseness": 3.0,
+        "style": 3.5
+      },
+      "grok_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.2,
+        "completeness": 4.7,
+        "conciseness": 3.8,
+        "style": 4.0
+      }
+    },
+    {
+      "prompt": "What are common use cases for dynamic vs. static typing?",
+      "anthropic_rating": {
+        "accuracy": 4.0,
+        "clarity": 3.5,
+        "completeness": 3.8,
+        "conciseness": 3.7,
+        "style": 3.5
+      },
+      "grok_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.2,
+        "completeness": 4.7,
+        "conciseness": 3.8,
+        "style": 4.0
+      }
+    },
+    {
+      "prompt": "How do you manage dependencies in a Node.js project?",
+      "anthropic_rating": {
+        "accuracy": 4.0,
+        "clarity": 3.5,
+        "completeness": 4.0,
+        "conciseness": 3.0,
+        "style": 3.5
+      },
+      "grok_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.3,
+        "completeness": 4.7,
+        "conciseness": 3.8,
+        "style": 4.0
+      }
+    },
+    {
+      "prompt": "Explain the difference between an array and a linked list.",
+      "anthropic_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.0,
+        "completeness": 4.0,
+        "conciseness": 3.5,
+        "style": 3.5
+      },
+      "grok_rating": {
+        "accuracy": 4.8,
+        "clarity": 4.7,
+        "completeness": 4.9,
+        "conciseness": 3.8,
+        "style": 4.5
+      }
+    },
+    {
+      "prompt": "How do you implement error handling in Rust?",
+      "anthropic_rating": {
+        "accuracy": 4.0,
+        "clarity": 3.5,
+        "completeness": 4.0,
+        "conciseness": 3.0,
+        "style": 3.5
+      },
+      "grok_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.2,
+        "completeness": 4.7,
+        "conciseness": 3.8,
+        "style": 4.0
+      }
+    }
+  ],
+  "legal": [
+    {
+      "prompt": "What is the difference between civil law and criminal law?",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "prompt": "Explain the concept of 'burden of proof' in a lawsuit.",
+      "anthropic_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.0,
+        "completeness": 4.2,
+        "conciseness": 3.8,
+        "style": 3.5
+      },
+      "grok_rating": {
+        "accuracy": 4.8,
+        "clarity": 4.5,
+        "completeness": 4.7,
+        "conciseness": 4.2,
+        "style": 4.3
+      }
+    },
+    {
+      "prompt": "How do you form a limited liability company (LLC)?",
+      "anthropic_rating": {
+        "accuracy": 4.0,
+        "clarity": 3.5,
+        "completeness": 3.8,
+        "conciseness": 3.7,
+        "style": 3.5
+      },
+      "grok_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.2,
+        "completeness": 4.7,
+        "conciseness": 3.8,
+        "style": 4.0
+      }
+    },
+    {
+      "prompt": "What is a 'tort' and what are common examples?",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "prompt": "Explain the basics of intellectual property rights.",
+      "anthropic_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.0,
+        "completeness": 4.2,
+        "conciseness": 3.8,
+        "style": 4.0
+      },
+      "grok_rating": {
+        "accuracy": 4.8,
+        "clarity": 4.5,
+        "completeness": 4.7,
+        "conciseness": 4.2,
+        "style": 4.3
+      }
+    },
+    {
+      "prompt": "What is the purpose of a nondisclosure agreement (NDA)?",
+      "anthropic_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.0,
+        "completeness": 4.2,
+        "conciseness": 3.8,
+        "style": 3.5
+      },
+      "grok_rating": {
+        "accuracy": 5.0,
+        "clarity": 4.5,
+        "completeness": 5.0,
+        "conciseness": 4.0,
+        "style": 4.0
+      }
+    },
+    {
+      "prompt": "How does a trademark differ from a patent?",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "prompt": "What are the main elements required for a valid contract?",
+      "anthropic_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.0,
+        "completeness": 4.2,
+        "conciseness": 3.8,
+        "style": 3.5
+      },
+      "grok_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.2,
+        "completeness": 4.8,
+        "conciseness": 3.9,
+        "style": 4.0
+      }
+    },
+    {
+      "prompt": "Explain the concept of legal precedent and stare decisis.",
+      "anthropic_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.0,
+        "completeness": 4.2,
+        "conciseness": 3.8,
+        "style": 4.0
+      },
+      "grok_rating": {
+        "accuracy": 4.8,
+        "clarity": 4.7,
+        "completeness": 4.9,
+        "conciseness": 4.2,
+        "style": 4.6
+      }
+    },
+    {
+      "prompt": "What is the statute of limitations and how does it vary?",
+      "anthropic_rating": {
+        "accuracy": 4.0,
+        "clarity": 3.5,
+        "completeness": 3.8,
+        "conciseness": 3.7,
+        "style": 3.5
+      },
+      "grok_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.2,
+        "completeness": 4.7,
+        "conciseness": 3.8,
+        "style": 4.0
+      }
+    },
+    {
+      "prompt": "Describe the process of filing for Chapter 7 bankruptcy.",
+      "anthropic_rating": {
+        "accuracy": 4.0,
+        "clarity": 3.5,
+        "completeness": 4.2,
+        "conciseness": 3.8,
+        "style": 3.7
+      },
+      "grok_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.3,
+        "completeness": 4.7,
+        "conciseness": 3.8,
+        "style": 4.2
+      }
+    },
+    {
+      "prompt": "How do courts determine child custody arrangements?",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "prompt": "What is 'vicarious liability' in employment law?",
+      "anthropic_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.0,
+        "completeness": 4.2,
+        "conciseness": 3.8,
+        "style": 3.5
+      },
+      "grok_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.8,
+        "completeness": 4.7,
+        "conciseness": 4.2,
+        "style": 4.6
+      }
+    },
+    {
+      "prompt": "Explain the difference between mediation and arbitration.",
+      "anthropic_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.0,
+        "completeness": 4.2,
+        "conciseness": 3.8,
+        "style": 4.0
+      },
+      "grok_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.8,
+        "completeness": 4.7,
+        "conciseness": 4.2,
+        "style": 4.6
+      }
+    },
+    {
+      "prompt": "What are the legal requirements for a will to be valid?",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "prompt": "How does negligence differ from intentional torts?",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "prompt": "What is 'probable cause' in criminal procedure?",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "prompt": "Explain the role of the Supreme Court in interpreting the Constitution.",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "prompt": "How are jury members selected for a trial?",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "prompt": "What is the difference between an expressed warranty and an implied warranty?",
+      "anthropic_rating": {
+        "accuracy": 4.0,
+        "clarity": 4.5,
+        "completeness": 3.5,
+        "conciseness": 4.0,
+        "style": 4.0
+      },
+      "grok_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.2,
+        "completeness": 4.3,
+        "conciseness": 3.8,
+        "style": 4.0
+      }
+    }
+  ],
+  "healthcare": [
+    {
+      "prompt": "What is the difference between Type 1 and Type 2 diabetes?",
+      "anthropic_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.0,
+        "completeness": 4.2,
+        "conciseness": 3.8,
+        "style": 3.9
+      },
+      "grok_rating": {
+        "accuracy": 4.8,
+        "clarity": 4.5,
+        "completeness": 4.7,
+        "conciseness": 4.2,
+        "style": 4.3
+      }
+    },
+    {
+      "prompt": "Explain the role of vaccines in preventing infectious diseases.",
+      "anthropic_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.0,
+        "completeness": 4.2,
+        "conciseness": 3.8,
+        "style": 4.0
+      },
+      "grok_rating": {
+        "accuracy": 4.8,
+        "clarity": 4.5,
+        "completeness": 4.7,
+        "conciseness": 3.8,
+        "style": 4.2
+      }
+    },
+    {
+      "prompt": "How do antidepressants generally work in the brain?",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "prompt": "What is the body mass index (BMI) and how is it calculated?",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "prompt": "How do viruses differ from bacteria?",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "prompt": "Explain the purpose of a clinical trial and its phases.",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "prompt": "What are the common symptoms of hypertension (high blood pressure)?",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "prompt": "How does the immune system respond to pathogens?",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "prompt": "What is the difference between generic and brand-name medications?",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "prompt": "Explain the role of physical therapy in rehabilitation.",
+      "anthropic_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.0,
+        "completeness": 4.2,
+        "conciseness": 3.8,
+        "style": 4.0
+      },
+      "grok_rating": {
+        "accuracy": 4.8,
+        "clarity": 4.5,
+        "completeness": 4.7,
+        "conciseness": 3.8,
+        "style": 4.2
+      }
+    },
+    {
+      "prompt": "What lifestyle changes can help manage high cholesterol?",
+      "anthropic_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.0,
+        "completeness": 4.2,
+        "conciseness": 3.8,
+        "style": 3.9
+      },
+      "grok_rating": {
+        "accuracy": 4.8,
+        "clarity": 4.5,
+        "completeness": 4.7,
+        "conciseness": 4.2,
+        "style": 4.6
+      }
+    },
+    {
+      "prompt": "How do vaccines help achieve herd immunity?",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "prompt": "Explain the concept of 'patient confidentiality' in healthcare.",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "prompt": "What factors contribute to antibiotic resistance?",
+      "anthropic_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.0,
+        "completeness": 4.2,
+        "conciseness": 3.8,
+        "style": 4.0
+      },
+      "grok_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.0,
+        "completeness": 4.5,
+        "conciseness": 3.5,
+        "style": 4.0
+      }
+    },
+    {
+      "prompt": "How does insulin regulate blood sugar levels?",
+      "anthropic_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.0,
+        "completeness": 4.2,
+        "conciseness": 3.8,
+        "style": 4.0
+      },
+      "grok_rating": {
+        "accuracy": 4.8,
+        "clarity": 4.5,
+        "completeness": 4.7,
+        "conciseness": 3.8,
+        "style": 4.2
+      }
+    },
+    {
+      "prompt": "What are the main differences between Medicare and Medicaid?",
+      "anthropic_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.0,
+        "completeness": 4.2,
+        "conciseness": 3.8,
+        "style": 4.0
+      },
+      "grok_rating": {
+        "accuracy": 5.0,
+        "clarity": 4.5,
+        "completeness": 5.0,
+        "conciseness": 4.0,
+        "style": 4.0
+      }
+    },
+    {
+      "prompt": "Describe the process of organ donation and transplantation.",
+      "anthropic_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.0,
+        "completeness": 4.2,
+        "conciseness": 3.8,
+        "style": 3.9
+      },
+      "grok_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.7,
+        "completeness": 4.8,
+        "conciseness": 4.2,
+        "style": 4.6
+      }
+    },
+    {
+      "prompt": "How does a PET scan differ from an MRI?",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "prompt": "What are the key warning signs of a stroke?",
+      "anthropic_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.0,
+        "completeness": 4.2,
+        "conciseness": 3.8,
+        "style": 4.0
+      },
+      "grok_rating": {
+        "accuracy": 4.8,
+        "clarity": 4.5,
+        "completeness": 4.7,
+        "conciseness": 4.2,
+        "style": 4.3
+      }
+    },
+    {
+      "prompt": "Explain the importance of mental health screenings.",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    }
+  ],
+  "marketing": [
+    {
+      "prompt": "How does content marketing differ from traditional advertising?",
+      "anthropic_rating": {
+        "accuracy": 4.0,
+        "clarity": 3.5,
+        "completeness": 3.8,
+        "conciseness": 3.7,
+        "style": 3.5
+      },
+      "grok_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.2,
+        "completeness": 4.7,
+        "conciseness": 3.8,
+        "style": 4.0
+      }
+    },
+    {
+      "prompt": "What is SEO and why is it important for businesses?",
+      "anthropic_rating": {
+        "accuracy": 4.0,
+        "clarity": 4.5,
+        "completeness": 3.8,
+        "conciseness": 3.7,
+        "style": 4.2
+      },
+      "grok_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.2,
+        "completeness": 4.8,
+        "conciseness": 3.8,
+        "style": 4.0
+      }
+    },
+    {
+      "prompt": "Explain the concept of a marketing funnel.",
+      "anthropic_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.0,
+        "completeness": 4.2,
+        "conciseness": 3.8,
+        "style": 3.5
+      },
+      "grok_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.5,
+        "completeness": 4.5,
+        "conciseness": 3.5,
+        "style": 4.0
+      }
+    },
+    {
+      "prompt": "What are buyer personas and how are they created?",
+      "anthropic_rating": {
+        "accuracy": 4.0,
+        "clarity": 3.5,
+        "completeness": 3.8,
+        "conciseness": 3.2,
+        "style": 3.0
+      },
+      "grok_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.2,
+        "completeness": 4.7,
+        "conciseness": 3.8,
+        "style": 4.0
+      }
+    },
+    {
+      "prompt": "How do you measure return on investment (ROI) for a marketing campaign?",
+      "anthropic_rating": {
+        "accuracy": 4.0,
+        "clarity": 3.5,
+        "completeness": 3.8,
+        "conciseness": 3.2,
+        "style": 3.0
+      },
+      "grok_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.2,
+        "completeness": 4.7,
+        "conciseness": 3.8,
+        "style": 4.0
+      }
+    },
+    {
+      "prompt": "What is A/B testing and why is it used in digital marketing?",
+      "anthropic_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.0,
+        "completeness": 4.2,
+        "conciseness": 3.8,
+        "style": 4.0
+      },
+      "grok_rating": {
+        "accuracy": 5.0,
+        "clarity": 4.5,
+        "completeness": 5.0,
+        "conciseness": 4.0,
+        "style": 4.5
+      }
+    },
+    {
+      "prompt": "Explain the difference between inbound and outbound marketing.",
+      "anthropic_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.0,
+        "completeness": 4.0,
+        "conciseness": 3.5,
+        "style": 3.0
+      },
+      "grok_rating": {
+        "accuracy": 5.0,
+        "clarity": 4.5,
+        "completeness": 5.0,
+        "conciseness": 4.0,
+        "style": 4.0
+      }
+    },
+    {
+      "prompt": "How can social media influencers impact brand awareness?",
+      "anthropic_rating": {
+        "accuracy": 4.0,
+        "clarity": 3.5,
+        "completeness": 3.8,
+        "conciseness": 3.2,
+        "style": 3.5
+      },
+      "grok_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.2,
+        "completeness": 4.7,
+        "conciseness": 3.8,
+        "style": 4.0
+      }
+    },
+    {
+      "prompt": "What is the purpose of a unique selling proposition (USP)?",
+      "anthropic_rating": {
+        "accuracy": 4.0,
+        "clarity": 4.5,
+        "completeness": 3.8,
+        "conciseness": 4.2,
+        "style": 4.0
+      },
+      "grok_rating": {
+        "accuracy": 5.0,
+        "clarity": 4.5,
+        "completeness": 4.8,
+        "conciseness": 4.2,
+        "style": 4.6
+      }
+    },
+    {
+      "prompt": "How do you conduct a SWOT analysis for a marketing plan?",
+      "anthropic_rating": {
+        "accuracy": 4.0,
+        "clarity": 3.5,
+        "completeness": 3.8,
+        "conciseness": 3.2,
+        "style": 3.0
+      },
+      "grok_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.2,
+        "completeness": 4.7,
+        "conciseness": 3.8,
+        "style": 4.0
+      }
+    },
+    {
+      "prompt": "Explain the concept of brand positioning.",
+      "anthropic_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.0,
+        "completeness": 4.2,
+        "conciseness": 3.8,
+        "style": 4.0
+      },
+      "grok_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.2,
+        "completeness": 4.3,
+        "conciseness": 3.8,
+        "style": 4.0
+      }
+    },
+    {
+      "prompt": "What are KPIs in marketing, and which are most common?",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "prompt": "How does email marketing compare to SMS marketing?",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "prompt": "What is the role of customer segmentation in targeted ads?",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "prompt": "Explain how marketing automation tools can benefit small businesses.",
+      "anthropic_rating": {
+        "accuracy": 4.0,
+        "clarity": 3.5,
+        "completeness": 4.2,
+        "conciseness": 3.8,
+        "style": 3.7
+      },
+      "grok_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.2,
+        "completeness": 4.7,
+        "conciseness": 4.0,
+        "style": 4.3
+      }
+    },
+    {
+      "prompt": "How do you conduct a competitor analysis?",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "prompt": "What is 'lead nurturing' and why is it important?",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "prompt": "Describe how retargeting ads work.",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "prompt": "How can user-generated content (UGC) support brand loyalty?",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "prompt": "Explain the difference between CPC, CPM, and CPA advertising models.",
+      "anthropic_rating": {
+        "accuracy": 4.0,
+        "clarity": 3.5,
+        "completeness": 3.8,
+        "conciseness": 3.7,
+        "style": 3.5
+      },
+      "grok_rating": {
+        "accuracy": 4.8,
+        "clarity": 4.5,
+        "completeness": 4.7,
+        "conciseness": 4.2,
+        "style": 4.6
+      }
+    }
+  ],
+  "general": [
+    {
+      "prompt": "Who was the first person to walk on the Moon?",
+      "anthropic_rating": {
+        "accuracy": 5.0,
+        "clarity": 4.5,
+        "completeness": 5.0,
+        "conciseness": 4.0,
+        "style": 4.0
+      },
+      "grok_rating": {
+        "accuracy": 5.0,
+        "clarity": 5.0,
+        "completeness": 5.0,
+        "conciseness": 4.5,
+        "style": 4.5
+      }
+    },
+    {
+      "prompt": "What causes the changing of seasons on Earth?",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "prompt": "Explain the water cycle and its main stages.",
+      "anthropic_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.0,
+        "completeness": 4.2,
+        "conciseness": 3.8,
+        "style": 4.0
+      },
+      "grok_rating": {
+        "accuracy": 4.8,
+        "clarity": 4.5,
+        "completeness": 4.7,
+        "conciseness": 4.2,
+        "style": 4.6
+      }
+    },
+    {
+      "prompt": "What is the capital of Australia?",
+      "anthropic_rating": {
+        "accuracy": 5.0,
+        "clarity": 5.0,
+        "completeness": 5.0,
+        "conciseness": 5.0,
+        "style": 5.0
+      },
+      "grok_rating": {
+        "accuracy": 5.0,
+        "clarity": 5.0,
+        "completeness": 5.0,
+        "conciseness": 5.0,
+        "style": 5.0
+      }
+    },
+    {
+      "prompt": "Which continent is the largest by land area?",
+      "anthropic_rating": {
+        "accuracy": 5.0,
+        "clarity": 5.0,
+        "completeness": 5.0,
+        "conciseness": 5.0,
+        "style": 5.0
+      },
+      "grok_rating": {
+        "accuracy": 5.0,
+        "clarity": 5.0,
+        "completeness": 5.0,
+        "conciseness": 4.5,
+        "style": 4.5
+      }
+    },
+    {
+      "prompt": "What are the primary colors in additive color mixing?",
+      "anthropic_rating": {
+        "accuracy": 5.0,
+        "clarity": 4.5,
+        "completeness": 4.0,
+        "conciseness": 4.5,
+        "style": 4.0
+      },
+      "grok_rating": {
+        "accuracy": 5.0,
+        "clarity": 4.5,
+        "completeness": 4.5,
+        "conciseness": 4.0,
+        "style": 4.0
+      }
+    },
+    {
+      "prompt": "Explain the difference between weather and climate.",
+      "anthropic_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.0,
+        "completeness": 4.2,
+        "conciseness": 3.8,
+        "style": 4.0
+      },
+      "grok_rating": {
+        "accuracy": 5.0,
+        "clarity": 4.5,
+        "completeness": 5.0,
+        "conciseness": 4.0,
+        "style": 4.0
+      }
+    },
+    {
+      "prompt": "Who wrote the play 'Romeo and Juliet'?",
+      "anthropic_rating": {
+        "accuracy": 5.0,
+        "clarity": 4.5,
+        "completeness": 4.0,
+        "conciseness": 4.0,
+        "style": 4.0
+      },
+      "grok_rating": {
+        "accuracy": 5.0,
+        "clarity": 5.0,
+        "completeness": 5.0,
+        "conciseness": 5.0,
+        "style": 5.0
+      }
+    },
+    {
+      "prompt": "How do magnets work at a basic scientific level?",
+      "anthropic_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.0,
+        "completeness": 3.8,
+        "conciseness": 3.7,
+        "style": 3.9
+      },
+      "grok_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.2,
+        "completeness": 4.7,
+        "conciseness": 3.8,
+        "style": 4.0
+      }
+    },
+    {
+      "prompt": "What is the theory of evolution by natural selection?",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "prompt": "Which ancient civilization built the Machu Picchu site in Peru?",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "prompt": "Explain the concept of supply and demand in economics.",
+      "anthropic_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.0,
+        "completeness": 4.2,
+        "conciseness": 3.8,
+        "style": 4.0
+      },
+      "grok_rating": {
+        "accuracy": 4.8,
+        "clarity": 4.5,
+        "completeness": 4.7,
+        "conciseness": 3.8,
+        "style": 4.2
+      }
+    },
+    {
+      "prompt": "What is photosynthesis and why is it important to life on Earth?",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "prompt": "How does a bill become a law in the United States?",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "prompt": "Name the three branches of the U.S. government and their functions.",
+      "anthropic_rating": {
+        "accuracy": 5.0,
+        "clarity": 4.5,
+        "completeness": 5.0,
+        "conciseness": 4.0,
+        "style": 4.0
+      },
+      "grok_rating": {
+        "accuracy": 5.0,
+        "clarity": 4.8,
+        "completeness": 5.0,
+        "conciseness": 4.5,
+        "style": 4.7
+      }
+    },
+    {
+      "prompt": "Who painted the Mona Lisa and in which artistic period?",
+      "anthropic_rating": {
+        "accuracy": 5.0,
+        "clarity": 4.5,
+        "completeness": 4.0,
+        "conciseness": 4.5,
+        "style": 4.0
+      },
+      "grok_rating": {
+        "accuracy": 5.0,
+        "clarity": 5.0,
+        "completeness": 5.0,
+        "conciseness": 5.0,
+        "style": 5.0
+      }
+    },
+    {
+      "prompt": "What is the function of the CPU in a computer?",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "prompt": "Explain the concept of absolute zero in physics.",
+      "anthropic_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.0,
+        "completeness": 4.2,
+        "conciseness": 3.8,
+        "style": 3.5
+      },
+      "grok_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.5,
+        "completeness": 4.5,
+        "conciseness": 4.0,
+        "style": 4.0
+      }
+    },
+    {
+      "prompt": "Name the largest mammal on Earth.",
+      "anthropic_rating": {
+        "accuracy": 5.0,
+        "clarity": 5.0,
+        "completeness": 5.0,
+        "conciseness": 5.0,
+        "style": 5.0
+      },
+      "grok_rating": {
+        "accuracy": 5.0,
+        "clarity": 5.0,
+        "completeness": 5.0,
+        "conciseness": 4.5,
+        "style": 4.5
+      }
+    },
+    {
+      "prompt": "Why do we have leap years?",
+      "anthropic_rating": {
+        "accuracy": 4.5,
+        "clarity": 4.0,
+        "completeness": 4.0,
+        "conciseness": 4.0,
+        "style": 3.5
+      },
+      "grok_rating": {
+        "accuracy": 5.0,
+        "clarity": 4.5,
+        "completeness": 5.0,
+        "conciseness": 4.0,
+        "style": 4.5
+      }
+    }
+  ]
+}

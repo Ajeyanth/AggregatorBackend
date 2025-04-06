@@ -1,0 +1,44 @@
+{
+  "finance": {
+    "accuracy": "DeepSeek",
+    "clarity": "Grok",
+    "completeness": "DeepSeek",
+    "conciseness": "DeepSeek",
+    "style": "Anthropic"
+  },
+  "coding": {
+    "accuracy": "DeepSeek",
+    "clarity": "DeepSeek",
+    "completeness": "Grok",
+    "conciseness": "DeepSeek",
+    "style": "GPT"
+  },"legal": {
+    "accuracy": "GPT",
+    "clarity": "DeepSeek",
+    "completeness": "DeepSeek",
+    "conciseness": "GPT",
+    "style": "DeepSeek"
+
+  },
+  "healthcare": {
+    "accuracy": "GPT",
+    "clarity": "DeepSeek",
+    "completeness": "DeepSeek",
+    "conciseness": "Anthropic",
+    "style": "DeepSeek"
+  },
+  "marketing": {
+    "accuracy": "DeepSeek",
+    "clarity": "DeepSeek",
+    "completeness": "Grok",
+    "conciseness": "DeepSeek",
+    "style": "GPT"
+  },
+  "general": {
+    "accuracy": "Grok",
+    "clarity": "Grok",
+    "completeness": "DeepSeek",
+    "conciseness": "GPT",
+    "style": "Grok"
+  }
+}
